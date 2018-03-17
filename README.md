@@ -15,7 +15,7 @@ For the "r_media" table, I hand-picked IDs to use for the "media_id" and "movie_
 
 For the "r_actors" table, I used IMDb to make sure as much data was accurate as possible. Again, this table was populated with actual actors.
 
-For the "r_rental_history" table, I populated it by hand. Nothing particular fancy or difficult here. The hardest part was making sure the start date and return dates made sense. No getting a movie on March 4th and returning it March 2nd. Unless you're a timewizard, then go ahead I suppose. I can garauntee the clerk isn't paid enough to deal with time-traveling wizards though.
+For the "r_rental_history" table, I populated it by hand. Nothing particular fancy or difficult here. The hardest part was making sure the start date and return dates made sense. No getting a movie on March 4th and returning it March 2nd. Unless you're a timewizard, then go ahead I suppose. I can guarantee the clerk isn't paid enough to deal with time-traveling wizards though.
 
 For the "r_star_billings" table, I again used IMDb to populate the fields. Same concept with the primary and secondary keys as in the "r_media" table, where one started at "1" and the other column started at "1000" in order to more easily differentiate the two.
 
